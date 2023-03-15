@@ -7,52 +7,40 @@
       "id": 1
     },
     {
-      "name": "sam Samant",
-      "email": "Akash@seller.com",
-      "password": "abc123@",
+      "name": "Alina",
+      "passoword": "abc",
+      "email": "Alina@test.com",
       "id": 2
     },
     {
-      "name": "qrwdw",
-      "passoword": "abc123@",
-      "email": "dbj@nsbsb.com",
+      "name": "Akas",
+      "passoword": "abc",
+      "email": "ndsnjkdnjkd",
       "id": 3
     },
     {
-      "name": "qrwdw",
-      "passoword": "abc123@",
-      "email": "dbj@nsbsb.com",
+      "name": "",
+      "passoword": "",
+      "email": "",
       "id": 4
     },
     {
-      "name": "qrwdw",
-      "passoword": "abc123@",
-      "email": "dbj@nsbsb.com",
+      "name": "dssqf",
+      "passoword": "sfaf",
+      "email": "ffdaffd",
       "id": 5
     },
     {
-      "name": "qrwdw",
-      "passoword": "abc123@",
-      "email": "dbj@nsbsb.com",
+      "name": "",
+      "passoword": "",
+      "email": "",
       "id": 6
     },
     {
-      "name": "qrhhjg",
-      "passoword": "abc123@",
-      "email": "dbj@nsbsb.com",
+      "name": "",
+      "passoword": "",
+      "email": "",
       "id": 7
-    },
-    {
-      "name": "peter",
-      "passoword": "abc123@",
-      "email": "peter@test.com",
-      "id": 8
-    },
-    {
-      "name": "Bruce",
-      "passoword": "abc@123",
-      "email": "bruce@test.com",
-      "id": 9
     }
   ]
 }
